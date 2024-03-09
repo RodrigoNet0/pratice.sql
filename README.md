@@ -1,1 +1,1 @@
-# pratice.sql
+# comandos para a pratica
